@@ -1,0 +1,18 @@
+{
+    "customers": [
+        {
+            "name": "John Doe",
+            "phone": "9189745632",
+            "address": "1230",
+            "membership": "platform",
+            "id": 1
+        },
+        {
+            "name": "Marry Doe",
+            "phone": "915698742",
+            "address": "Test",
+            "membership": "Pro",
+            "id": 2
+        }
+    ]
+}
